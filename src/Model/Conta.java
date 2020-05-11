@@ -16,7 +16,6 @@ public class Conta {
 		this.saldo += valor;
 	}
 	
-	//superior ou = ao saldo 
 			
 	public boolean debitar(double valor) {
 		if (valor > this.saldo) {
