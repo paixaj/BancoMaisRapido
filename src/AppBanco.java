@@ -1,6 +1,6 @@
 import java.util.HashMap;
 import java.util.Scanner;
-import model.Conta;
+import Model.Conta;
 public class AppBanco {
 	public static void main(String ags[]) {
 		HashMap<Integer, Conta> contas;
